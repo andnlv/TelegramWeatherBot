@@ -1,0 +1,10 @@
+apiai==1.2.3
+certifi==2017.11.5
+chardet==3.0.4
+future==0.16.0
+idna==2.6
+numpy==1.13.3
+python-telegram-bot==9.0.0
+requests==2.18.4
+telegram==0.0.1
+urllib3==1.22
